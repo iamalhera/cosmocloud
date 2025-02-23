@@ -1,5 +1,5 @@
 # Project Title
-CosmoCloud Employee CRUD - Assessment - Frontend Engineer Role
+Consmocloud Employee CRUD
 
 ## Demo link:
 You can check this Demo Video at [Youtube](https://youtu.be/Qky1j5XXt6M)
@@ -16,7 +16,7 @@ You can check this Demo Video at [Youtube](https://youtu.be/Qky1j5XXt6M)
 - [License](#license)
 
 ## About The App
-<strong>CosmoCloud Employee CRUD</strong> is simple React based webapp using CosmoCloud to delegate the API services and using MongoDB Atlas for DB And this is an assessment project for <strong>Frontend Engineer</strong> Role.
+<strong>CosmoCloud Employee CRUD</strong> is simple React based webapp using CosmoCloud to delegate the API services and using MongoDB Atlas for DB.
 
 ## Screenshots
 
@@ -35,7 +35,7 @@ I used `React`, `React Router`, `CosmoCloud for Backend as a Service`, `MongoDB 
 
 ## Approach
 1. Initial Assessment:
-    - Reviewed the assessment document provided in the form of Google-Doc to understand and think about the requirements and visual design.
+    - Reviewed the project idea document from internet to understand and think about the requirements and visual design.
 2. Backend Perspective :
     - Created a CosmoCloud Profile and made an `employee_crud` Project of Free Tier.
     - I created a data model keeping in mind the necessity of the project.
@@ -52,7 +52,7 @@ I used `React`, `React Router`, `CosmoCloud for Backend as a Service`, `MongoDB 
     - Leveraged Tailwind CSS framework to build pages with a focus on building clean UI in dark mode.
 
 ## Status
-[CosmoCloud-CRUD-assessment] is `Completed` as per assessments need.
+[CosmoCloud-CRUD-assessment] is `Completed` as per project need.
 
 ## Credits
 List of Help Guides:
